@@ -2,9 +2,6 @@
 // import reactLogo from './assets/react.svg';
 // import viteLogo from '/vite.svg';
 // import './index.css';
-
-import Login from "./pages/login";
-import Register from "./pages/Register";
 import AppRoutes from "./routes/AppRoutes";
 
 function App() {
